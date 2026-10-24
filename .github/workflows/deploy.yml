@@ -24,13 +24,10 @@ jobs:
       - name: Build the JupyterLite site
         run: |
           mkdir -p build/contents
-          cp -a content/. build/contents/
-          if [ -d worksheet ]; then
-            cp -a worksheet build/contents/
-          fi
-          if [ -f README.md ]; then
-            cp README.md build/contents/
-          fi
+          cp -a worksheet build/contents/
+          # Start the organized course with separate persistent browser storage.
+          # Existing work in the original browser store remains recoverable.
+          printf '%s\n' '{"jupyter-config-data":{"contentsStorageName":"DS-815 Student Worksheets v1","workspacesStorageName":"DS-815 Student Worksheets Workspaces v1"},"jupyter-lite-schema-version":0}' > jupyter-lite.json
           jupyter lite build --contents build/contents --output-dir dist
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
