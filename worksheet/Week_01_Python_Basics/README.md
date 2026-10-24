@@ -7,3 +7,5 @@ Work through the following student worksheets in order. Each notebook has its ow
 3. [Data Types and Operators](03_Python_Data_Types_and_Operators_Student.ipynb) — 29 activities.
 
 See [data and access requirements](../DATA_REQUIREMENTS.md) before starting lessons that need external inputs. No completed solutions or saved results are included.
+
+- Week 1 uses straight-line code: no loops, conditionals, functions, or exception handlers.
