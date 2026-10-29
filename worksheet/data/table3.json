@@ -1,0 +1,32 @@
+[
+  {
+    "country": "Aland",
+    "year": 2020,
+    "rate": "120/10000"
+  },
+  {
+    "country": "Aland",
+    "year": 2021,
+    "rate": "150/10200"
+  },
+  {
+    "country": "Bela",
+    "year": 2020,
+    "rate": "90/15000"
+  },
+  {
+    "country": "Bela",
+    "year": 2021,
+    "rate": "110/15200"
+  },
+  {
+    "country": "Cyra",
+    "year": 2020,
+    "rate": "40/8000"
+  },
+  {
+    "country": "Cyra",
+    "year": 2021,
+    "rate": "60/8100"
+  }
+]

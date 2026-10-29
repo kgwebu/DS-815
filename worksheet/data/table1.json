@@ -1,0 +1,38 @@
+[
+  {
+    "country": "Aland",
+    "year": 2020,
+    "cases": 120,
+    "population": 10000
+  },
+  {
+    "country": "Aland",
+    "year": 2021,
+    "cases": 150,
+    "population": 10200
+  },
+  {
+    "country": "Bela",
+    "year": 2020,
+    "cases": 90,
+    "population": 15000
+  },
+  {
+    "country": "Bela",
+    "year": 2021,
+    "cases": 110,
+    "population": 15200
+  },
+  {
+    "country": "Cyra",
+    "year": 2020,
+    "cases": 40,
+    "population": 8000
+  },
+  {
+    "country": "Cyra",
+    "year": 2021,
+    "cases": 60,
+    "population": 8100
+  }
+]

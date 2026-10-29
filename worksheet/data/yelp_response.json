@@ -1,0 +1,60 @@
+{
+  "mode": "SIMULATED",
+  "total": 6,
+  "businesses": [
+    {
+      "id": "demo_business_0",
+      "name": "Demo Cafe 0",
+      "rating": 3.5,
+      "review_count": 10,
+      "location": {
+        "city": "Boston"
+      }
+    },
+    {
+      "id": "demo_business_1",
+      "name": "Demo Cafe 1",
+      "rating": 3.7,
+      "review_count": 15,
+      "location": {
+        "city": "Boston"
+      }
+    },
+    {
+      "id": "demo_business_2",
+      "name": "Demo Cafe 2",
+      "rating": 3.9,
+      "review_count": 20,
+      "location": {
+        "city": "Boston"
+      }
+    },
+    {
+      "id": "demo_business_3",
+      "name": "Demo Cafe 3",
+      "rating": 4.1,
+      "review_count": 25,
+      "location": {
+        "city": "Boston"
+      }
+    },
+    {
+      "id": "demo_business_4",
+      "name": "Demo Cafe 4",
+      "rating": 4.3,
+      "review_count": 30,
+      "location": {
+        "city": "Boston"
+      }
+    },
+    {
+      "id": "demo_business_5",
+      "name": "Demo Cafe 5",
+      "rating": 4.5,
+      "review_count": 35,
+      "location": {
+        "city": "Boston"
+      }
+    }
+  ]
+}

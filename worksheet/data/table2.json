@@ -1,0 +1,74 @@
+[
+  {
+    "country": "Aland",
+    "year": 2020,
+    "type": "cases",
+    "count": 120
+  },
+  {
+    "country": "Aland",
+    "year": 2020,
+    "type": "population",
+    "count": 10000
+  },
+  {
+    "country": "Aland",
+    "year": 2021,
+    "type": "cases",
+    "count": 150
+  },
+  {
+    "country": "Aland",
+    "year": 2021,
+    "type": "population",
+    "count": 10200
+  },
+  {
+    "country": "Bela",
+    "year": 2020,
+    "type": "cases",
+    "count": 90
+  },
+  {
+    "country": "Bela",
+    "year": 2020,
+    "type": "population",
+    "count": 15000
+  },
+  {
+    "country": "Bela",
+    "year": 2021,
+    "type": "cases",
+    "count": 110
+  },
+  {
+    "country": "Bela",
+    "year": 2021,
+    "type": "population",
+    "count": 15200
+  },
+  {
+    "country": "Cyra",
+    "year": 2020,
+    "type": "cases",
+    "count": 40
+  },
+  {
+    "country": "Cyra",
+    "year": 2020,
+    "type": "population",
+    "count": 8000
+  },
+  {
+    "country": "Cyra",
+    "year": 2021,
+    "type": "cases",
+    "count": 60
+  },
+  {
+    "country": "Cyra",
+    "year": 2021,
+    "type": "population",
+    "count": 8100
+  }
+]

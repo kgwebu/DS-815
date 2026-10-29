@@ -1,0 +1,38 @@
+[
+  {
+    "country": "Aland",
+    "century": "20",
+    "year": "20",
+    "rate": "120/10000"
+  },
+  {
+    "country": "Aland",
+    "century": "20",
+    "year": "21",
+    "rate": "150/10200"
+  },
+  {
+    "country": "Bela",
+    "century": "20",
+    "year": "20",
+    "rate": "90/15000"
+  },
+  {
+    "country": "Bela",
+    "century": "20",
+    "year": "21",
+    "rate": "110/15200"
+  },
+  {
+    "country": "Cyra",
+    "century": "20",
+    "year": "20",
+    "rate": "40/8000"
+  },
+  {
+    "country": "Cyra",
+    "century": "20",
+    "year": "21",
+    "rate": "60/8100"
+  }
+]
